@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyomoGit&count_private=true&show_icons=true&theme=onedark" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyomoGit&count_private=true&show_icons=true&theme=Gradient" />
 
 </p>
