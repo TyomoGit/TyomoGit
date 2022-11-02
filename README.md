@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyomoGit
-)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi! I am Tyomo. I am a first year student at Kindai University.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyomoGit
-)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="left">
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyomoGit&count_private=true&show_icons=true&theme=onedark" />
+
+</p>
