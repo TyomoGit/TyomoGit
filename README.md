@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I am a second year student at Kindai University.
-(Tyomo is nickname)
+
+(Tyomo is my nickname)
 
 <p align="left">
 
