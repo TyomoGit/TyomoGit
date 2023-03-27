@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi! I am Tyomo. I am a first year student at Kindai University.
-
-
+I am a second year student at Kindai University.
+(Tyomo is nickname)
 
 <p align="left">
 
