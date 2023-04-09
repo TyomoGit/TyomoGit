@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a second year student at Kindai University.
-
-(Tyomo is my nickname)
-
 <p align="left">
 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyomoGit&count_private=true&show_icons=true&theme=dark" />
