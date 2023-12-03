@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyomoGit&count_private=true&show_icons=true&theme=dark" />
-
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyomogit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyomogit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyomogit&theme=dark)
